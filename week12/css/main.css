@@ -1,0 +1,16 @@
+body{
+font-family: "Black Ops One", system-ui;
+}
+header{
+    background-color: aqua;
+}
+.banner{
+    max-width: 1000px;
+    margin:0 auto;
+    padding: 1rem;
+    text-align: center;
+} 
+h1{
+    /*font-family: "Black Ops One", system-ui;*/
+    font-weight: 700;
+}
